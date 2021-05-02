@@ -1,2 +1,3 @@
 # Hello-World
-Git Hello Wold
+Git Hello World
+Making changes
